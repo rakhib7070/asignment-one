@@ -1,0 +1,527 @@
+
+.background{
+    width: 100%;
+    height: 700px;
+    background-image: url(image/Banner\ Image.png);
+    border-radius: 16px;
+    border: 1px solid white;
+    opacity: 0.9;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.happy{
+    width: 60%;
+    height: 250px;
+padding-top: 280px;
+margin: auto;
+}
+.happy h1{
+    font: merriweather;
+    font-weight: bold;
+    size: 52px;
+   line-height: 4px;
+    text-align: center;
+    white-space: nowrap;
+    color: black;
+}
+.happy h2{
+    font: merriweather;
+    font-weight: bold;
+    font-size: 72px;
+    white-space: nowrap;
+    text-align: center;
+   line-height: 72px;
+    color: black;
+}
+.offer{
+    width: 100%;
+    height: 250px;
+    margin-top: 80px;
+}
+.offer-text{
+    width: 70%;
+    height: 80px;
+    margin: auto;
+
+}
+.offer-text p{
+    font-family: inter;
+    font-size: 48px;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    line-height: normal;
+    color: red;
+}
+.holiday-offer{
+    width: 70%;
+    height: 120px;
+    margin: auto;
+}
+.holiday-offer p{
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 400;
+    color: red;
+    text-align: center;
+    line-height: 50px;
+}
+.holiday-offer span{
+    font-size: 46px;
+    color: black;
+    font-weight: bold;
+}
+.new-year{
+    width:48%;
+    height: 500px;
+    margin: auto;
+}
+.new-year img{
+    width: 100%;
+    height: 100%;
+
+}
+.welcome-party{
+    width: 100%;
+    height: 600px;
+    padding-top: 70px;
+    background-image: url(image/Vectorrr.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    gap: 10%;
+}
+.party-text{
+    width: 55%;
+    height: 400px;
+    margin-left: 100px;
+}
+.party-text h2{
+    font-family: merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: 7.04px;
+    color: #ffffff;
+}
+.party-text p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.party-text a{
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.party-text button{
+    width: 160px;
+    height: 65px;
+    background-color: rgb(235, 34, 34);
+    border: none;
+    border-radius: 8px;
+}
+.party-text button:hover{
+    color: rgb(32, 9, 138);
+}
+.place{
+    width: 50%;
+height:330px;
+padding-top: 100px;
+margin: auto;
+}
+.new-park{
+    width: 100%;
+    height: 100%;
+   
+}
+.new-park p{
+    color:  #070211;;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+}
+.new-park span{
+    color: red;
+}
+.new-park button{
+    width: 160px;
+    height: 65px;
+    background-color: rgb(235, 34, 34);
+    border: none;
+    border-radius: 8px;
+margin-left: 350px;
+}
+.new-park button a{
+    text-decoration: none;
+    color: #f0e7e7;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.new{
+    width: 100%;
+    height:600px;
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    margin-top: 100px;
+    align-items: center;
+    gap: 50px;
+}
+.best{
+    width: 30%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    padding-top: 200px;
+}
+.best h3{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.best h2{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: 29px;
+text-transform: capitalize;
+}
+.best p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+}
+.offer-image{
+    width: 33%;
+    height:520px;
+    border-radius: 300px;
+border: 15px solid #F00;
+}
+.offer-image img{
+    width: 400px;
+    height: 400px;
+    flex-shrink: 0;
+padding-left:70px;
+padding-top: 58px;
+}
+.coming{
+    width: 30%;
+    height: 100%;
+    padding-top: 200px;
+}
+.coming h2{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.coming p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px; 
+}
+.coming img{
+    width: 140px;
+height: 140px;
+flex-shrink: 0;
+}
+.function{
+    width: 100%;
+    height: 930px;
+    margin-top: 100px;
+}
+.sale{
+    width: 100%;
+    height: 360px;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.sale h3{
+    color: #070211;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+text-align: center;
+}
+.sale h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+text-align: center;
+}
+.sale span{
+    color: #F00;
+}
+.sale p{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+}
+.discount{
+    width: 100%;
+    height: 770px;
+    margin: 0%;
+    padding: 0%;
+}
+.double{
+    width: 100%;
+    height:600px;
+    position: relative;
+    display: flex;
+}
+#image1{
+    width: 62%;
+    height: 700px;
+    position: relative;
+    z-index: 1;
+    top: 50px;
+}
+#image2{
+    position: absolute;
+    z-index: 1;
+    right: 25%;
+    top: 160px;
+}
+#image3{
+    width: 38%;
+    height: 100%;
+    position: relative;
+}
+#image4{
+    width: 100%;
+    height: 200px;
+}
+
+.awesome{
+    width: 100%;
+    height: 1170px;
+    margin-top: 350px;
+}
+.gift{
+    width: 100%;
+    height: 270px;
+}
+.gift h3{
+ color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.gift h2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.gift p{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.protfolio{
+    width: 100%;
+    height: 450px;
+    display: flex;
+}
+.photo{
+    width: 31%;
+    height:400px;
+    margin-top: 20px;
+    margin-left: 23px;
+    border-radius: 16px;
+}
+.photo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+}
+.subscriber{
+width: 100%;
+height: 600px;
+margin-top: 100px;
+}
+.subscriber img{
+width: 150px;
+height: 150px;
+flex-shrink: 0;
+position: relative;
+left: 730px;
+}
+.subscriber h2{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.subscriber p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.subscriber input{
+    width: 450px;
+height: 50px;
+flex-shrink: 0;
+margin-left: 500px;
+border-radius: 50px;
+background: #FFF;
+}
+.subscriber button{
+    width: 210px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00
+}
+.subscriber a{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+text-decoration: none;
+}
+.footer{
+    width: 100%;
+    height: 600px;
+    background: #070211
+}
+.big{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.beach{
+    width: 50%;
+    height: 100%;
+}
+.beach p{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+margin-top: 40px;
+margin-left: 15px;
+}
+.gardens{
+    width: 50%;
+    height: 100%;
+    left: 100%;
+}
+.gardens p{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+text-align: center;
+margin-top: 40px;
+}
+.street{
+    width: 100%;
+    height: 200px;
+}
+.street a{
+width: 64px;
+height: 64px;
+    text-decoration: none;
+    text-align: center;
+}
+.all{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.right{
+    width: 50%;
+    height: 100%;
+}
+.right p{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 40px;
+margin-left: 15px;
+}
+.reserve{
+    width: 50%;
+    height: 100%;
+}
+.reserve p{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+margin-top: 40px;
+}
